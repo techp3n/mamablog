@@ -1,5 +1,47 @@
 body{
+<<<<<<< HEAD
     color: darkgoldenrod;
     text-align: center;
     font-family: "courier";
 }
+=======
+    color: #333;
+    text-align: center; 
+    font-family: "Arial";
+    font-size: 32px;
+    margin: 0;
+    padding: 0;
+}
+#container
+{
+    width: 90%;
+    padding: 1em;
+    text-align: center;
+    border: 1px solid  #DDD;
+
+}
+
+#container h1
+{
+    font-size: 20px;
+}
+
+#cabecera
+{
+    background: #33A;
+    box-shadow: 5px 5px 20px 5px rgba(0, 0, 0, 0);
+    color: white;
+    font-size: bold;
+    margin: 0;
+    padding: 0;
+}
+
+#cabecera #tagline
+{
+    padding: 0 0 0;
+    font-weight: normal;
+    font-size: 0.8cm;
+}
+
+
+>>>>>>> cabecera
