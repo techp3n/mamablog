@@ -1,14 +1,13 @@
 body{
-<<<<<<< HEAD
+
     color: darkgoldenrod;
     text-align: center;
     font-family: "ariel";
-}
-=======
-    color: #333;
+
+    color: red;
     text-align: center; 
     font-family: "Arial";
-    font-size: 32px;
+    font-size: 28px;
     margin: 0;
     padding: 0;
 }
@@ -16,7 +15,7 @@ body{
 {
     width: 90%;
     padding: 1em;
-    text-align: center;
+    text-align: left;
     border: 1px solid  #DDD;
 
 }
@@ -34,6 +33,7 @@ body{
     font-size: bold;
     margin: 0;
     padding: 0;
+    text-align: center;
 }
 
 #cabecera #tagline
@@ -44,4 +44,4 @@ body{
 }
 
 
->>>>>>> cabecera
+
