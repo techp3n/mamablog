@@ -27,7 +27,7 @@ body{
 
 #cabecera
 {
-    background: #33A;
+    background: red;
     box-shadow: 5px 5px 20px 5px rgba(0, 0, 0, 0);
     color: white;
     font-size: bold;
