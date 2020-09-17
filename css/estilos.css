@@ -27,7 +27,7 @@ body{
 
 #cabecera
 {
-    background: blueviolet;
+    background: blue;
     box-shadow: 5px 5px 20px 5px rgba(0, 0, 0, 0);
     color: white;
     font-size: bold;
@@ -48,10 +48,20 @@ body{
     font-weight: normal;
     font-size: 0.8cm;
 }
+<<<<<<< HEAD
 #post
 {
     background: white;
     padding: 1em;
 }
 
+=======
+
+#footer
+{
+    background: #777;
+    color:white;
+    text-align: center;
+}
+>>>>>>> aa7676660896c6d05b4d57882f4528a7eecfe19c
 
