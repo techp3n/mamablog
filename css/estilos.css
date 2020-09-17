@@ -4,7 +4,7 @@ body{
     text-align: center;
     font-family: "ariel";
 
-    color: red;
+    color: black;
     text-align: center; 
     font-family: "Arial";
     font-size: 28px;
@@ -27,7 +27,7 @@ body{
 
 #cabecera
 {
-    background: blueviolet;
+    background: blue;
     box-shadow: 5px 5px 20px 5px rgba(0, 0, 0, 0);
     color: white;
     font-size: bold;
@@ -43,5 +43,10 @@ body{
     font-size: 0.8cm;
 }
 
-
+#footer
+{
+    background: #777;
+    color:white;
+    text-align: center;
+}
 
