@@ -8,14 +8,19 @@ Yo soy eskeretech el mejor escribidor de texto que veras en tu puta vida xD
 estoy contribuyendo a este mamaguebo a escribir ulde calidad todo esto.
 Lo se, soy lo mejor
 
-ola xD
-ola2 xD
-
 Chupame el culo
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 master 1
 
 master 2 xD
 =======
 >>>>>>> ola xD
+=======
+Experimento 2
+
+Experimento 3
+
+master 1
+>>>>>>> eskere1
