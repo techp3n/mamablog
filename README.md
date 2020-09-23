@@ -9,12 +9,8 @@
 - Quién hable de alguien más, se va baneado
 - Si quieren sexo, comuniquense por el MD
 - Creado por el chupa culo xD
-<<<<<<< HEAD
-​
-=======
 - Incluye tremendas mamadas de Lana
 - Disponible solo pa mayores de edad​
->>>>>>> readme-mejorado
 ## Espero que seamos una comunidad bien bacana y nos comamos un manguito maracaton😎
 ​
 [![](https://miamidiario.com/wp-content/uploads/Lana-Rhoades-1.jpg)](http://https://miamidiario.com/wp-content/uploads/Lana-Rhoades-1.jpg)
