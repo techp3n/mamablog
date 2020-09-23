@@ -8,6 +8,7 @@
 - Aquí solamente se habla de Lana
 - Quién hable de alguien más, se va baneado
 - Si quieren sexo, comuniquense por el MD
+- Creado por el chupa culo xD
 ​
 ## Espero que seamos una comunidad bien bacana y nos comamos un manguito maracaton😎
 ​
